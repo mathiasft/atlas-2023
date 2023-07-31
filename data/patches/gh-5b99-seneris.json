@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "SeneriS",
+	"description": "Seneris is a brazillian musician who makes eletronic music, and released an album called \"Máscaras\" in 2018. It took around 5 hours using 3 accounts to acomplish this mini art",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@GuillermoMathias"
+		]
+	},
+	"path": {
+		"243-253": [
+			[
+				-957,
+				647
+			],
+			[
+				-957,
+				641
+			],
+			[
+				-930,
+				641
+			],
+			[
+				-930,
+				647
+			]
+		]
+	},
+	"center": {
+		"243-253": [
+			-943,
+			644
+		]
+	}
+}
